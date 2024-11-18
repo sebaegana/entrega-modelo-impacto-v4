@@ -69,7 +69,7 @@ data_01$Market <- as.factor(data_01$Market)
 plot_02 <- ggplot(data_01, aes(x = Market)) +
   geom_bar(fill = "skyblue", color = "black") +
   labs(
-    title = "Distribución de casos por mercado",
+    title = "Distribución de casos por mercado geográfico",
     x = "Mercados",
     y = "Cantidad"
   ) +
