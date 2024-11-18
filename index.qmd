@@ -249,7 +249,7 @@ plot_summary_02
 
 # Análisis descriptivo:
 
-Se muestra a continuación el recuento de casos por NPS contestado:
+Hacemos un pequeño cambio para probar. Se muestra a continuación el recuento de casos por NPS contestado:
 
 ```{r, echo=FALSE}
 library(knitr)
